@@ -1,0 +1,14 @@
+[project]
+name = "color2rgb"
+description = "Nodes:color2RGB"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/vxinhao/color2rgb"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "color2rgb"
+Icon = ""
